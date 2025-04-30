@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '52302'
     url: http://www.gutenberg.org/2009/agents/52302
     wikipedia: https://fi.wikipedia.org/wiki/Pekka_Brofeldt
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dreyfus, Alfred
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alfred_Dreyfus
     - https://fr.wikipedia.org/wiki/Alfred_Dreyfus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75831#Viisi-vuotta-elamastani-1894-1899
 gutenberg_issued: '2025-04-10'
 gutenberg_type: Text
 identifiers:
